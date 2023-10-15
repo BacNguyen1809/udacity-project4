@@ -6,13 +6,13 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="sourabh385/project4"
+dockerpath="bacnguyen/project4"
 
 # Step 2:
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login &&\
-    docker image tag ml-api $dockerpath
+    docker image tag project4 $dockerpath
 
 # Step 3:
 # Push image to a docker repository

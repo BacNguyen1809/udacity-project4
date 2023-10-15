@@ -12,4 +12,4 @@ docker image ls
 
 # Step 3: 
 # Run flask app
-docker run -it --rm --name ml-api -p 8000:80 project4
+docker run -it --rm --name project4 -p 8000:80 project4
