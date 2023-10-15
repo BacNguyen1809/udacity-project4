@@ -5,7 +5,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=sourabh385/project4
+dockerpath="bacnguyen1005/project4"
 
 # Step 2
 # Run the Docker Hub container with kubernetes

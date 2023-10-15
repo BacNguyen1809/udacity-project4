@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="bacnguyen/project4"
+dockerpath="bacnguyen1005/project4"
 
 # Step 2:
 # Authenticate & tag
